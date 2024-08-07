@@ -1,4 +1,4 @@
-![Header](.github-header-image.png)
+![Header]([.github-header-image.png](https://github.com/arsh-dev01/arsh-dev01/blob/main/github-header-image.png))
 <h1 align="center">Hi 👋, I'm Arshnoor Kirmani</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
